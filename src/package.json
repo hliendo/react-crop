@@ -1,0 +1,13 @@
+{
+  "name": "react-cropper-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react-cropper": "1.0.1",
+    "react": "16.0.0",
+    "cropperjs": "1.2.2"
+  }
+}
